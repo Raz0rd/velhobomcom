@@ -9,7 +9,7 @@ import Analytics from "@/components/Analytics";
 
 export const metadata: Metadata = {
   title: "Obom Velhinho - Árvores e Decorações de Natal",
-  description: "As melhores árvores e decorações de natal para sua casa. Toda loja com até 30% de desconto!",
+  description: "As melhores árvores e decorações de natal para sua casa. Toda loja com até 80% de desconto!",
   icons: {
     icon: "/logoOBomvelhinho.webp",
   },

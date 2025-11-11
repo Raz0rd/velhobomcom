@@ -21,7 +21,7 @@ export default async function Home() {
         <div className="relative w-full h-[300px] md:h-[400px] lg:h-[500px]">
           <Image
             src="/bannerInicial.png"
-            alt="Obom Velhinho - Toda a loja com até 30% de desconto"
+            alt="Obom Velhinho - Toda a loja com até 80% de desconto"
             fill
             className="object-cover"
             priority
